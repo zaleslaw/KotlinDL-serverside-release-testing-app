@@ -3,7 +3,7 @@ plugins {
     id("org.jetbrains.kotlinx.dataframe") version "0.10.0"
 }
 
-group = "com.zaleslaw"
+group = "com.zaleslaw.kotlindl.serverside.release-testing-app"
 version = "1.0-SNAPSHOT"
 
 repositories {
